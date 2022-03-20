@@ -1,0 +1,611 @@
+User ID,Sex,Age,Occupation,Zip-Code
+1,Male,18,academic/educator,45678
+2,Male,19,artist,35678
+3,Male,19,college/grad student,13513
+4,Male,19,customer service,14356
+5,Male,19,doctor/health care,15313
+6,Male,19,executive/managerial,45678
+7,Male,19,farmer,35678
+8,Male,19,lawyer,13513
+9,Male,19,programmer,14356
+10,Male,19,sales/marketing,15313
+11,Male,19,unemployed,45678
+12,Male,19,academic/educator,35678
+13,Male,19,artist,13513
+14,Male,19,college/grad student,14356
+15,Male,19,customer service,15313
+16,Male,19,doctor/health care,45678
+17,Male,19,executive/managerial,35678
+18,Male,19,farmer,13513
+19,Male,19,academic/educator,14356
+20,Male,19,artist,15313
+21,Male,19,college/grad student,45678
+22,Male,19,customer service,35678
+23,Male,19,doctor/health care,13513
+24,Male,19,executive/managerial,14356
+25,Male,19,farmer,15313
+26,Male,19,lawyer,45678
+27,Female,19,programmer,35678
+28,Female,19,sales/marketing,13513
+29,Female,19,unemployed,14356
+30,Female,35,academic/educator,15313
+31,Female,35,artist,45678
+32,Female,35,college/grad student,35678
+33,Female,35,customer service,13513
+34,Female,35,doctor/health care,14356
+35,Female,35,executive/managerial,15313
+36,Female,35,farmer,45678
+37,Female,35,academic/educator,35678
+38,Female,35,artist,13513
+39,Female,35,college/grad student,14356
+40,Female,35,customer service,15313
+41,Female,35,doctor/health care,45678
+42,Female,35,executive/managerial,35678
+43,Female,35,farmer,13513
+44,Female,35,lawyer,14356
+45,Female,35,programmer,15313
+46,Female,35,sales/marketing,45678
+47,Female,35,unemployed,35678
+48,Female,35,academic/educator,13513
+49,Female,35,artist,14356
+50,Female,35,college/grad student,15313
+51,Female,35,customer service,45678
+52,Female,35,doctor/health care,35678
+53,Female,35,executive/managerial,13513
+54,Female,35,farmer,14356
+55,Female,35,academic/educator,15313
+56,Female,35,artist,45678
+57,Female,35,college/grad student,35678
+58,Female,35,customer service,13513
+59,Female,35,doctor/health care,14356
+60,Female,35,executive/managerial,15313
+61,Female,40,farmer,45678
+62,Female,40,lawyer,35678
+63,Female,40,programmer,13513
+64,Female,40,sales/marketing,14356
+65,Female,40,unemployed,15313
+66,Female,40,academic/educator,45678
+67,Female,40,artist,35678
+68,Female,40,college/grad student,13513
+69,Female,40,customer service,14356
+70,Female,40,doctor/health care,15313
+71,Female,40,executive/managerial,45678
+72,Female,40,farmer,35678
+73,Female,40,academic/educator,13513
+74,Female,40,artist,14356
+75,Female,40,college/grad student,15313
+76,Female,40,customer service,45678
+77,Female,40,doctor/health care,35678
+78,Female,40,executive/managerial,13513
+79,Female,40,farmer,14356
+80,Female,40,lawyer,15313
+81,Female,40,programmer,45678
+82,Female,40,sales/marketing,35678
+83,Female,40,unemployed,13513
+84,Female,40,academic/educator,14356
+85,Female,40,artist,15313
+86,Female,40,college/grad student,45678
+87,Female,40,customer service,35678
+88,Female,40,doctor/health care,13513
+89,Female,40,executive/managerial,14356
+90,Female,40,farmer,15313
+91,Female,40,academic/educator,45678
+92,Female,40,artist,35678
+93,Female,40,college/grad student,13513
+94,Female,40,customer service,14356
+95,Female,40,doctor/health care,15313
+96,Female,40,executive/managerial,45678
+97,Female,40,farmer,35678
+98,Female,40,lawyer,13513
+99,Female,40,programmer,14356
+100,Female,40,sales/marketing,15313
+101,Female,40,unemployed,45678
+102,Female,40,academic/educator,35678
+103,Female,40,artist,13513
+104,Female,40,college/grad student,14356
+105,Female,40,customer service,15313
+106,Female,40,doctor/health care,45678
+107,Female,40,executive/managerial,35678
+108,Female,40,farmer,13513
+109,Female,40,academic/educator,14356
+110,Female,40,artist,15313
+111,Female,40,college/grad student,45678
+112,Female,40,customer service,35678
+113,Female,40,doctor/health care,13513
+114,Female,40,executive/managerial,14356
+115,Female,40,farmer,15313
+116,Female,40,lawyer,45678
+117,Female,40,programmer,35678
+118,Female,40,sales/marketing,13513
+119,Female,40,unemployed,14356
+120,Female,40,academic/educator,15313
+121,Female,40,artist,45678
+122,Female,40,college/grad student,35678
+123,Female,40,customer service,13513
+124,Female,40,doctor/health care,14356
+125,Female,40,executive/managerial,15313
+126,Female,40,farmer,45678
+127,Female,40,academic/educator,35678
+128,Female,40,artist,13513
+129,Female,40,college/grad student,14356
+130,Female,40,customer service,15313
+131,Female,40,doctor/health care,45678
+132,Female,40,executive/managerial,35678
+133,Female,40,farmer,13513
+134,Female,40,lawyer,14356
+135,Female,40,programmer,15313
+136,Female,40,sales/marketing,45678
+137,Female,40,unemployed,35678
+138,Female,40,academic/educator,13513
+139,Female,40,artist,14356
+140,Female,40,college/grad student,15313
+141,Female,40,customer service,15313
+142,Female,40,doctor/health care,45678
+143,Female,40,executive/managerial,35678
+144,Female,40,farmer,13513
+145,Female,40,academic/educator,14356
+146,Female,40,artist,15313
+147,Female,40,college/grad student,45678
+148,Female,40,customer service,35678
+149,Female,40,doctor/health care,13513
+150,Female,56,executive/managerial,14356
+151,Female,56,farmer,15313
+152,Female,56,lawyer,45678
+153,Female,56,programmer,35678
+154,Female,56,sales/marketing,13513
+155,Female,56,unemployed,14356
+156,Female,56,academic/educator,15313
+157,Female,56,artist,45678
+158,Female,56,college/grad student,35678
+159,Female,56,customer service,13513
+160,Female,56,doctor/health care,14356
+161,Female,56,executive/managerial,15313
+162,Female,42,farmer,45678
+163,Female,42,academic/educator,35678
+164,Female,42,artist,13513
+165,Female,42,college/grad student,14356
+166,Female,42,customer service,15313
+167,Female,42,doctor/health care,45678
+168,Female,42,executive/managerial,35678
+169,Female,42,farmer,13513
+170,Female,42,lawyer,14356
+171,Female,42,programmer,15313
+172,Female,42,sales/marketing,45678
+173,Female,42,unemployed,35678
+174,Female,42,academic/educator,13513
+175,Female,42,artist,14356
+176,Female,42,college/grad student,15313
+177,Female,42,customer service,45678
+178,Female,42,doctor/health care,35678
+179,Female,42,executive/managerial,13513
+180,Female,42,farmer,14356
+181,Female,42,academic/educator,15313
+182,Female,42,artist,45678
+183,Female,42,college/grad student,35678
+184,Female,42,customer service,13513
+185,Female,42,doctor/health care,14356
+186,Female,42,executive/managerial,15313
+187,Female,42,farmer,45678
+188,Female,42,lawyer,35678
+189,Female,42,programmer,13513
+190,Female,42,sales/marketing,14356
+191,Female,42,unemployed,15313
+192,Female,42,academic/educator,45678
+193,Female,42,artist,35678
+194,Female,42,college/grad student,13513
+195,Female,42,customer service,14356
+196,Female,42,doctor/health care,15313
+197,Female,42,executive/managerial,45678
+198,Female,42,farmer,35678
+199,Female,42,academic/educator,13513
+200,Female,42,artist,14356
+201,Female,42,college/grad student,15313
+202,Female,42,customer service,45678
+203,Female,42,doctor/health care,35678
+204,Female,42,executive/managerial,13513
+205,Female,42,farmer,14356
+206,Female,42,lawyer,15313
+207,Female,42,programmer,45678
+208,Female,42,sales/marketing,35678
+209,Female,42,unemployed,13513
+210,Female,42,academic/educator,14356
+211,Female,42,artist,15313
+212,Female,42,college/grad student,45678
+213,Female,42,customer service,35678
+214,Female,42,doctor/health care,13513
+215,Female,35,executive/managerial,14356
+216,Female,35,farmer,15313
+217,Female,35,academic/educator,45678
+218,Female,35,artist,35678
+219,Female,35,college/grad student,13513
+220,Female,35,customer service,14356
+221,Female,35,doctor/health care,15313
+222,Female,35,executive/managerial,45678
+223,Female,35,farmer,35678
+224,Female,35,lawyer,13513
+225,Female,35,programmer,14356
+226,Female,35,sales/marketing,15313
+227,Female,35,unemployed,45678
+228,Female,35,academic/educator,35678
+229,Female,35,artist,13513
+230,Female,35,college/grad student,14356
+231,Female,35,customer service,15313
+232,Female,35,doctor/health care,45678
+233,Female,35,executive/managerial,35678
+234,Female,35,farmer,13513
+235,Female,35,academic/educator,14356
+236,Female,35,artist,15313
+237,Female,35,college/grad student,45678
+238,Female,35,customer service,35678
+239,Female,35,doctor/health care,13513
+240,Female,35,executive/managerial,14356
+241,Female,35,farmer,15313
+242,Female,35,lawyer,45678
+243,Female,35,programmer,35678
+244,Female,35,sales/marketing,13513
+245,Female,35,unemployed,14356
+246,Female,35,academic/educator,15313
+247,Female,35,artist,45678
+248,Female,35,college/grad student,35678
+249,Female,35,customer service,13513
+250,Female,35,doctor/health care,14356
+251,Female,35,executive/managerial,15313
+252,Female,35,farmer,45678
+253,Female,35,academic/educator,35678
+254,Female,35,artist,13513
+255,Female,35,college/grad student,14356
+256,Female,35,customer service,15313
+257,Female,35,doctor/health care,45678
+258,Female,35,executive/managerial,35678
+259,Female,35,farmer,13513
+260,Female,35,lawyer,14356
+261,Female,35,programmer,15313
+262,Female,35,sales/marketing,45678
+263,Female,35,unemployed,35678
+264,Female,35,academic/educator,13513
+265,Female,35,artist,14356
+266,Female,35,college/grad student,15313
+267,Female,35,customer service,45678
+268,Female,35,doctor/health care,35678
+269,Female,47,executive/managerial,13513
+270,Female,47,farmer,14356
+271,Female,47,academic/educator,15313
+272,Female,47,artist,45678
+273,Female,47,college/grad student,35678
+274,Female,47,customer service,13513
+275,Male,47,doctor/health care,14356
+276,Male,47,executive/managerial,15313
+277,Male,47,farmer,45678
+278,Male,47,lawyer,35678
+279,Male,47,programmer,13513
+280,Male,47,sales/marketing,14356
+281,Male,47,unemployed,15313
+282,Male,47,academic/educator,45678
+283,Male,47,artist,35678
+284,Male,47,college/grad student,13513
+285,Male,31,customer service,14356
+286,Male,31,doctor/health care,15313
+287,Male,31,executive/managerial,45678
+288,Male,31,farmer,35678
+289,Male,31,academic/educator,13513
+290,Male,31,artist,14356
+291,Male,31,college/grad student,15313
+292,Male,31,customer service,45678
+293,Male,31,doctor/health care,35678
+294,Male,31,executive/managerial,13513
+295,Male,31,farmer,14356
+296,Male,31,lawyer,15313
+297,Male,31,programmer,45678
+298,Male,31,sales/marketing,35678
+299,Male,31,unemployed,13513
+300,Male,31,academic/educator,14356
+301,Male,31,artist,15313
+302,Male,31,college/grad student,45678
+303,Male,36,customer service,35678
+304,Male,36,doctor/health care,13513
+305,Male,36,executive/managerial,14356
+306,Male,36,farmer,15313
+307,Male,36,academic/educator,45678
+308,Male,36,artist,35678
+309,Male,36,college/grad student,13513
+310,Male,36,customer service,14356
+311,Male,36,doctor/health care,15313
+312,Male,36,executive/managerial,45678
+313,Male,36,farmer,35678
+314,Male,36,lawyer,13513
+315,Male,36,programmer,14356
+316,Male,36,sales/marketing,15313
+317,Male,36,unemployed,45678
+318,Male,36,academic/educator,35678
+319,Male,36,artist,13513
+320,Male,75,college/grad student,14356
+321,Male,75,customer service,15313
+322,Male,75,doctor/health care,45678
+323,Male,75,executive/managerial,35678
+324,Male,75,farmer,13513
+325,Male,75,academic/educator,14356
+326,Male,75,artist,15313
+327,Male,75,college/grad student,45678
+328,Male,75,customer service,35678
+329,Male,75,doctor/health care,13513
+330,Male,75,executive/managerial,14356
+331,Male,75,farmer,15313
+332,Male,55,lawyer,45678
+333,Male,55,programmer,35678
+334,Male,55,sales/marketing,13513
+335,Male,55,unemployed,14356
+336,Male,55,academic/educator,15313
+337,Male,55,artist,45678
+338,Male,55,college/grad student,35678
+339,Male,55,customer service,13513
+340,Male,55,doctor/health care,14356
+341,Male,55,executive/managerial,15313
+342,Male,55,farmer,45678
+343,Male,55,academic/educator,35678
+344,Male,55,artist,13513
+345,Male,55,college/grad student,14356
+346,Female,55,customer service,15313
+347,Male,55,doctor/health care,45678
+348,Female,55,executive/managerial,35678
+349,Male,55,farmer,13513
+350,Female,55,lawyer,14356
+351,Male,55,programmer,15313
+352,Female,52,sales/marketing,45678
+353,Male,52,unemployed,35678
+354,Female,52,academic/educator,13513
+355,Male,52,artist,14356
+356,Female,52,college/grad student,15313
+357,Male,52,customer service,45678
+358,Female,52,doctor/health care,35678
+359,Male,52,executive/managerial,13513
+360,Female,52,farmer,14356
+361,Male,52,academic/educator,15313
+362,Female,52,artist,45678
+363,Male,52,college/grad student,35678
+364,Female,52,customer service,13513
+365,Male,52,doctor/health care,14356
+366,Female,52,executive/managerial,15313
+367,Male,52,farmer,45678
+368,Female,16,lawyer,35678
+369,Male,16,programmer,13513
+370,Female,16,sales/marketing,14356
+371,Male,16,unemployed,15313
+372,Female,16,academic/educator,45678
+373,Male,16,artist,35678
+374,Female,16,college/grad student,13513
+375,Male,16,customer service,14356
+376,Female,16,doctor/health care,15313
+377,Male,16,executive/managerial,45678
+378,Female,16,farmer,35678
+379,Male,16,academic/educator,13513
+380,Female,16,artist,14356
+381,Male,16,college/grad student,15313
+382,Female,16,customer service,45678
+383,Male,16,doctor/health care,35678
+384,Female,16,executive/managerial,13513
+385,Male,16,farmer,14356
+386,Female,16,lawyer,15313
+387,Male,17,programmer,45678
+388,Female,18,sales/marketing,35678
+389,Male,19,unemployed,13513
+390,Female,20,academic/educator,14356
+391,Male,21,artist,15313
+392,Female,22,college/grad student,45678
+393,Male,23,customer service,35678
+394,Female,24,doctor/health care,13513
+395,Male,25,executive/managerial,14356
+396,Female,26,farmer,15313
+397,Male,27,academic/educator,45678
+398,Female,28,artist,35678
+399,Male,29,college/grad student,13513
+400,Female,30,customer service,14356
+401,Male,31,doctor/health care,15313
+402,Female,32,executive/managerial,45678
+403,Male,33,farmer,35678
+404,Female,34,lawyer,13513
+405,Male,35,programmer,14356
+406,Female,36,sales/marketing,15313
+407,Male,37,unemployed,45678
+408,Female,38,academic/educator,35678
+409,Male,39,artist,13513
+410,Female,40,college/grad student,14356
+411,Male,41,customer service,15313
+412,Female,42,doctor/health care,45678
+413,Male,43,executive/managerial,35678
+414,Female,44,farmer,13513
+415,Male,45,academic/educator,14356
+416,Female,46,artist,15313
+417,Male,47,college/grad student,45678
+418,Female,48,customer service,35678
+419,Male,49,doctor/health care,13513
+420,Female,50,executive/managerial,14356
+421,Male,51,farmer,15313
+422,Female,52,lawyer,15313
+423,Male,53,programmer,45678
+424,Female,54,sales/marketing,35678
+425,Male,55,unemployed,13513
+426,Female,56,academic/educator,14356
+427,Male,57,artist,15313
+428,Female,58,college/grad student,45678
+429,Male,59,customer service,35678
+430,Female,60,doctor/health care,13513
+431,Male,61,executive/managerial,14356
+432,Female,62,farmer,15313
+433,Male,63,academic/educator,45678
+434,Female,64,artist,35678
+435,Male,65,college/grad student,13513
+436,Female,66,customer service,14356
+437,Male,67,doctor/health care,15313
+438,Female,68,executive/managerial,45678
+439,Male,69,farmer,35678
+440,Female,70,lawyer,13513
+441,Male,71,programmer,14356
+442,Female,72,sales/marketing,15313
+443,Male,20,unemployed,45678
+444,Female,21,academic/educator,35678
+445,Male,22,artist,13513
+446,Female,23,college/grad student,14356
+447,Male,24,customer service,15313
+448,Female,25,doctor/health care,45678
+449,Male,26,executive/managerial,35678
+450,Female,27,farmer,13513
+451,Male,28,academic/educator,14356
+452,Female,29,artist,15313
+453,Male,30,college/grad student,45678
+454,Female,31,customer service,35678
+455,Male,32,doctor/health care,13513
+456,Female,33,executive/managerial,14356
+457,Male,34,farmer,15313
+458,Female,35,lawyer,45678
+459,Male,36,programmer,35678
+460,Female,37,sales/marketing,13513
+461,Male,38,unemployed,14356
+462,Female,39,academic/educator,15313
+463,Male,40,artist,45678
+464,Female,41,college/grad student,35678
+465,Male,51,customer service,13513
+466,Female,52,doctor/health care,14356
+467,Male,53,executive/managerial,15313
+468,Female,54,farmer,45678
+469,Male,55,academic/educator,35678
+470,Female,56,artist,13513
+471,Male,57,college/grad student,14356
+472,Female,58,customer service,15313
+473,Male,59,doctor/health care,45678
+474,Female,60,executive/managerial,35678
+475,Male,61,farmer,13513
+476,Female,62,lawyer,14356
+477,Male,63,programmer,15313
+478,Female,64,sales/marketing,45678
+479,Male,65,unemployed,35678
+480,Female,66,academic/educator,13513
+481,Male,67,artist,14356
+482,Female,68,college/grad student,15313
+483,Male,69,customer service,45678
+484,Female,14,doctor/health care,35678
+485,Male,15,executive/managerial,13513
+486,Female,16,farmer,14356
+487,Male,17,academic/educator,15313
+488,Female,18,artist,45678
+489,Male,19,college/grad student,35678
+490,Female,20,customer service,13513
+491,Male,21,doctor/health care,14356
+492,Female,22,executive/managerial,15313
+493,Male,23,farmer,45678
+494,Female,24,lawyer,35678
+495,Male,25,programmer,13513
+496,Female,26,sales/marketing,14356
+497,Male,27,unemployed,15313
+498,Female,28,academic/educator,45678
+499,Male,29,artist,35678
+500,Female,30,college/grad student,13513
+501,Male,31,customer service,14356
+502,Female,32,doctor/health care,15313
+503,Male,33,executive/managerial,45678
+504,Female,34,farmer,35678
+505,Male,35,academic/educator,13513
+506,Female,36,artist,14356
+507,Male,37,college/grad student,15313
+508,Female,38,customer service,45678
+509,Male,39,doctor/health care,35678
+510,Female,40,executive/managerial,13513
+511,Male,41,farmer,14356
+512,Female,42,lawyer,15313
+513,Male,43,programmer,45678
+514,Female,44,sales/marketing,35678
+515,Male,45,unemployed,13513
+516,Female,46,academic/educator,14356
+517,Male,47,artist,15313
+518,Female,48,college/grad student,45678
+519,Male,49,customer service,35678
+520,Female,50,doctor/health care,13513
+521,Male,51,executive/managerial,14356
+522,Female,52,farmer,15313
+523,Male,53,academic/educator,45678
+524,Female,54,artist,35678
+525,Male,55,college/grad student,13513
+526,Female,56,customer service,14356
+527,Male,57,doctor/health care,15313
+528,Female,58,executive/managerial,45678
+529,Male,59,farmer,35678
+530,Female,60,lawyer,13513
+531,Male,61,programmer,14356
+532,Female,62,sales/marketing,15313
+533,Male,63,unemployed,45678
+534,Female,64,academic/educator,35678
+535,Male,65,artist,13513
+536,Female,31,college/grad student,14356
+537,Male,32,customer service,15313
+538,Female,33,doctor/health care,45678
+539,Male,34,executive/managerial,35678
+540,Female,35,farmer,13513
+541,Male,36,academic/educator,14356
+542,Female,37,artist,15313
+543,Male,38,college/grad student,45678
+544,Female,39,customer service,35678
+545,Male,40,doctor/health care,13513
+546,Female,41,executive/managerial,14356
+547,Male,42,farmer,15313
+548,Female,43,lawyer,45678
+549,Male,44,programmer,35678
+550,Female,45,sales/marketing,13513
+551,Male,46,unemployed,14356
+552,Female,47,academic/educator,15313
+553,Male,48,artist,45678
+554,Female,49,college/grad student,35678
+555,Male,50,customer service,13513
+556,Female,51,doctor/health care,14356
+557,Male,52,executive/managerial,15313
+558,Female,53,farmer,45678
+559,Male,54,academic/educator,35678
+560,Female,55,artist,13513
+561,Male,56,college/grad student,14356
+562,Female,57,customer service,15313
+563,Male,58,doctor/health care,45678
+564,Female,59,executive/managerial,35678
+565,Male,60,farmer,13513
+566,Female,61,lawyer,14356
+567,Male,62,programmer,15313
+568,Female,63,sales/marketing,45678
+569,Male,64,unemployed,35678
+570,Female,65,academic/educator,13513
+571,Male,66,artist,14356
+572,Female,67,college/grad student,15313
+573,Male,68,customer service,45678
+574,Female,69,doctor/health care,35678
+575,Male,70,executive/managerial,13513
+576,Female,71,farmer,14356
+577,Male,72,academic/educator,15313
+578,Female,73,artist,45678
+579,Male,74,college/grad student,35678
+580,Female,75,customer service,13513
+581,Male,76,doctor/health care,14356
+582,Female,77,executive/managerial,15313
+583,Male,78,farmer,45678
+584,Female,79,lawyer,35678
+585,Male,80,programmer,13513
+586,Female,81,sales/marketing,14356
+587,Male,82,unemployed,15313
+588,Female,83,academic/educator,45678
+589,Male,84,artist,35678
+590,Female,85,college/grad student,13513
+591,Male,86,customer service,14356
+592,Female,87,doctor/health care,15313
+593,Male,88,executive/managerial,45678
+594,Female,89,farmer,35678
+595,Male,90,academic/educator,13513
+596,Female,91,artist,14356
+597,Male,92,college/grad student,15313
+598,Female,93,customer service,45678
+599,Male,94,doctor/health care,35678
+600,Female,95,executive/managerial,13513
+601,Male,96,farmer,14356
+602,Female,97,lawyer,15313
+603,Male,98,programmer,45678
+604,Female,99,sales/marketing,35678
+605,Male,100,unemployed,13513
+606,Female,101,academic/educator,14356
+607,Male,102,artist,15313
+608,Female,103,college/grad student,45678
+609,Male,104,customer service,35678
+610,Female,105,doctor/health care,13513

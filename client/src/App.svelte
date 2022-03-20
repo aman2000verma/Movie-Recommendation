@@ -4,38 +4,6 @@
   export let numMovies = "";
   export let engine = "";
   export let result;
-  export let movies = [
-    {
-      movieID: 26375,
-      title: "Silver Streak (1976)",
-      genres: "Action|Comedy|Crime"
-    },
-    { movieID: 283, title: "New Jersey Drive (1995)", genres: "Crime|Drama" },
-    {
-      movieID: 228,
-      title: "Destiny Turns on the Radio (1995)",
-      genres: "Comedy"
-    },
-    { movieID: 184, title: "Nadja (1994)", genres: "Drama" },
-    {
-      movieID: 238,
-      title: "Far From Home: The Adventures of Yellow Dog (1995)",
-      genres: "Adventure|Children"
-    },
-    {
-      movieID: 4,
-      title: "Waiting to Exhale (1995)",
-      genres: "Comedy|Drama|Romance"
-    },
-    { movieID: 61, title: "Eye for an Eye (1996)", genres: "Drama|Thriller" },
-    { movieID: 132, title: "Jade (1995)", genres: "Thriller" },
-    { movieID: 209, title: "White Man's Burden (1995)", genres: "Drama" },
-    {
-      movieID: 26729,
-      title: "Hearts of Darkness: A Filmmakers Apocalypse (1991)",
-      genres: "Documentary"
-    }
-  ];
   export const response = async () => {
     const options = {
       method: "POST",
